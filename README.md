@@ -1,4 +1,4 @@
-# EV Charging Calculator
+# Plugrate
 
 A modern web application to calculate the cost of charging your electric vehicle.
 
